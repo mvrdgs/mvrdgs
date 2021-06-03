@@ -1,16 +1,12 @@
-### Hi there 👋
+### Olá, bem-vindos e bem-vindas ao meu GitHub 👋
+- Me chamo Maurício Viegas Rodrigues
+- Sou estudante de Desenvolvimento Web Full Stack na Trybe
 
-<!--
-**mvrdgs/mvrdgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Sobre minha aprendizagem
+- Já passei pelo bloco de **Fundamentos** e estou finalizando o bloco de **Front-End**
+- Utilizei **JavaScript** como linguagem base para meus estudos
+- Atualmente estou estudando **React**, **Redux** e conteúdos relacoinadas
+- Sou apaixonado por **Lógica** e deesenvolvo priorizando o **aprimomranto de desempenho** dos compenentes dos meus códigos
+- Sempre busco aprender maneiras de manter meus códigos mais **limpos** e **organizados**
+- Utilizei o padrão de estilização de código da Airbnb ns projetos da Trybe
+- CSS e estilização ainda de Layout **ainda** não tiveram prioridade nos meus estudos, mas estão na lista!
