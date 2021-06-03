@@ -1,3 +1,5 @@
+[![image](https://github.com/mvrdgs/mvrdgs/blob/main/Logos/linkedin.svg)](https://www.linkedin.com/in/mauricio-viegas/)
+
 ### Olá, bem-vindos e bem-vindas ao meu GitHub 👋
 - Me chamo Maurício Viegas Rodrigues
 - Sou estudante de Desenvolvimento Web Full Stack na Trybe
@@ -13,11 +15,11 @@
 
 ### Tecnologias em que possuo conhecimento
 
-![image](https://github.com/mvrdgs/mvrdgs/blob/main/Logos/javascript-seeklogo.com.svg)
-![image](https://github.com/mvrdgs/mvrdgs/blob/main/Logos/html5-without-wordmark-color.svg)
-![image](https://github.com/mvrdgs/mvrdgs/blob/main/Logos/icons8-css3.svg)
-![image](https://github.com/mvrdgs/mvrdgs/blob/main/Logos/react-seeklogo.com.svg)
-![image](https://github.com/mvrdgs/mvrdgs/blob/main/Logos/redux-seeklogo.com.svg)
-![image](https://github.com/mvrdgs/mvrdgs/blob/main/Logos/jest-seeklogo.com.svg)
-![image](https://raw.githubusercontent.com/mvrdgs/mvrdgs/22759a86719fa119b65b38cb562cba29bb85d876/Logos/git-seeklogo.com.svg)
-![image](https://github.com/mvrdgs/mvrdgs/blob/main/Logos/linux-tux.svg)
+![image](https://github.com/mvrdgs/mvrdgs/blob/main/Logos/javascript.svg)
+![image](https://github.com/mvrdgs/mvrdgs/blob/main/Logos/html.svg)
+![image](https://github.com/mvrdgs/mvrdgs/blob/main/Logos/css.svg)
+![image](https://github.com/mvrdgs/mvrdgs/blob/main/Logos/react.svg)
+![image](https://github.com/mvrdgs/mvrdgs/blob/main/Logos/redux.svg)
+![image](https://github.com/mvrdgs/mvrdgs/blob/main/Logos/jest.svg)
+![image](https://github.com/mvrdgs/mvrdgs/blob/main/Logos/git.svg)
+![image](https://github.com/mvrdgs/mvrdgs/blob/main/Logos/linux.svg)
