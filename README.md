@@ -1,6 +1,6 @@
 ### Contato
-[![image](https://github.com/mvrdgs/mvrdgs/blob/main/Logos/gmail.svg)](mailto:mvrdgs@gmail.com) &nbsp;
-[![image](https://github.com/mvrdgs/mvrdgs/blob/main/Logos/lkdin.svg)](https://www.linkedin.com/in/mauricio-viegas/)
+[![image](https://github.com/mvrdgs/mvrdgs/blob/main/Logos/lkdin.svg)](https://www.linkedin.com/in/mauricio-viegas/) &nbsp;
+[![image](https://github.com/mvrdgs/mvrdgs/blob/main/Logos/gmail.svg)](mailto:mvrdgs@gmail.com)
 
 ### Olá, bem-vindos e bem-vindas ao meu GitHub 👋
 - Me chamo Maurício Viegas Rodrigues
@@ -24,4 +24,7 @@
 ![image](https://github.com/mvrdgs/mvrdgs/blob/main/Logos/redux.svg)
 ![image](https://github.com/mvrdgs/mvrdgs/blob/main/Logos/jest.svg)
 ![image](https://github.com/mvrdgs/mvrdgs/blob/main/Logos/git.svg)
-![image](https://github.com/mvrdgs/mvrdgs/blob/main/Logos/linux.svg)
+![image](https://github.com/mvrdgs/mvrdgs/blob/main/Logos/linux.svg)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mvrdgs)  
+![Mauricio's GitHub stats](https://github-readme-stats.vercel.app/api?username=mvrdgs&show_icons=true&theme=)
