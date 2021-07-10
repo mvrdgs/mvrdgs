@@ -28,3 +28,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mvrdgs)  
 ![Mauricio's GitHub stats](https://github-readme-stats.vercel.app/api?username=mvrdgs&show_icons=true&theme=)
+
+Páginas de Projetos:
+- Trivia: https://mvrdgs.github.io/trivia/
+  - Repositório: https://github.com/mvrdgs/trivia/
