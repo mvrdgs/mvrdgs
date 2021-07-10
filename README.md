@@ -15,6 +15,10 @@
 - Utilizei o Padrão de Estilização de código da Airbnb nos projetos da Trybe
 - Sei o básico de CSS e estilização de Layout, porém **ainda** não foram prioridade em meus projetos. Mas estão na lista!
 
+### Páginas de Projetos:
+- Trivia: https://mvrdgs.github.io/trivia/
+  - Repositório: https://github.com/mvrdgs/trivia/
+
 ### Tecnologias em que possuo conhecimento
 
 ![image](https://github.com/mvrdgs/mvrdgs/blob/main/Logos/javascript.svg)
@@ -28,7 +32,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mvrdgs)  
 ![Mauricio's GitHub stats](https://github-readme-stats.vercel.app/api?username=mvrdgs&show_icons=true&theme=)
-
-Páginas de Projetos:
-- Trivia: https://mvrdgs.github.io/trivia/
-  - Repositório: https://github.com/mvrdgs/trivia/
