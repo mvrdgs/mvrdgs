@@ -7,17 +7,12 @@
 - Sou estudante de Desenvolvimento Web Full Stack na Trybe
 
 ### Sobre minha aprendizagem
-- Já passei pelo bloco de **Fundamentos** e estou finalizando o bloco de **Front-End**
+- Concluí os módulos de **Fundamentos**, **Front-End** e **Back-End**. Atualmente iniciando o módulo de **Ciência da Computação**.
 - Utilizei **JavaScript** como linguagem base para meus estudos
-- Atualmente estou estudando **React**, **Redux** e conteúdos relacionados
+- Atualmente estou estudando **React** e **Java** e conteúdos relacionados
 - Sou apaixonado por **Lógica** e desenvolvo priorizando o **aprimoramento de desempenho** dos compenentes dos meus códigos
 - Sempre busco aprender maneiras de manter meus códigos mais **limpos** e **organizados**
-- Utilizei o Padrão de Estilização de código da Airbnb nos projetos da Trybe
-- Sei o básico de CSS e estilização de Layout, porém **ainda** não foram prioridade em meus projetos. Mas estão na lista!
-
-### Páginas de Projetos:
-- Trivia: https://mvrdgs.github.io/trivia/
-  - Repositório: https://github.com/mvrdgs/trivia/
+- Costumo utilizar o Padrão de Estilização de código da Airbnb nos meus projetos
 
 ### Tecnologias em que possuo conhecimento
 
