@@ -9,7 +9,8 @@
 ### Sobre minha aprendizagem
 - Concluí os módulos de **Fundamentos**, **Front-End** e **Back-End**. Atualmente iniciando o módulo de **Ciência da Computação**.
 - Utilizei **JavaScript** como linguagem base para meus estudos
-- Atualmente estou estudando **React** e **Java** e conteúdos relacionados
+- Possuo conhecimento sólido em **React.js** e **Node.js**
+- Atualmente estou estudando **Python**, **Java** e conteúdos relacionados
 - Sou apaixonado por **Lógica** e desenvolvo priorizando o **aprimoramento de desempenho** dos compenentes dos meus códigos
 - Sempre busco aprender maneiras de manter meus códigos mais **limpos** e **organizados**
 - Costumo utilizar o Padrão de Estilização de código da Airbnb nos meus projetos
