@@ -1,4 +1,4 @@
-# Software Developer Profile 🚀
+# Software Developer 🚀
 
 ## Introduction
 Hello, fellow developers! 👋 I'm a passionate software developer with 2 years of experience, specializing in Golang and complementing my skills with JavaScript and React.
