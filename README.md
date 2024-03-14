@@ -21,7 +21,8 @@ Hello, fellow developers! 👋 I'm a passionate software developer with 2 years 
 - **Learning Enthusiast:** Eager to expand my knowledge, I actively seek opportunities to learn and grow, embracing challenges as valuable learning experiences.
 
 ## 📚 Education
-- Trybe Fullstack Development Boocamp (2022)
+- Bachelor's Degree - Computer Science - Universidade Estacio de Sá (2024-2027)
+- Boocamp - Fullstack Development - Trybe (2022)
 
 ## 👥 Let's Connect!
 I'm excited to connect with like-minded developers and explore opportunities to collaborate on interesting projects. If you have a project in mind or simply want to chat about tech, feel free to reach out! 🌐
